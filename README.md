@@ -60,11 +60,12 @@ Check all the gates following the same procedure.
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: SUBRAMANIYA PILLAI B
+RegisterNumber:  212221230109
 */
 Logic symbol & Truthtable
 RTL realization
+![]()
 Output:
 RTL
 
